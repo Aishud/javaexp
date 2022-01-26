@@ -3,7 +3,7 @@ class Employee
 {
  int empno;
  String a;
- double phno;
+ String phno;
  void read()
  {
   Scanner o=new Scanner(System.in);
@@ -12,7 +12,7 @@ class Employee
   System.out.println("Enter the Name : ");
   a=o.next();
   System.out.println("Enter the phone number");
-  phno=o.nextDouble();
+  phno=o.next();
  }
  void display()
  {
