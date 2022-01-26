@@ -18,7 +18,7 @@ class employee
   System.out.println("Enter Salary : ");
   salary=o.nextInt();
  }
- void printDetails()
+ void printSalary()
  {
   System.out.println("Name : "+name);
   System.out.println("Age : "+age);
@@ -39,7 +39,7 @@ class officer extends employee
  }
  void printDetails()
  {
-  super.printDetails();
+  super.printSalary();
   System.out.println("Specialization : "+spec);
  }
 }
@@ -55,7 +55,7 @@ class manager extends employee
  }
  void printDetails()
  {
-  super.printDetails();
+  super.printSalary();
   System.out.println("Department : "+dep);
  }
 }
