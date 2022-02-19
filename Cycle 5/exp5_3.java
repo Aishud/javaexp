@@ -9,7 +9,7 @@ class adddetails
    FileWriter fw=new FileWriter("hii.txt");
    FileReader fr=new FileReader("hii.txt");      
    fw.write("Name:Aiswarya Das\n");
-   fw.write("Address:Ayyankovil\n");
+   fw.write("Address:Australia\n");
    fw.close();
    int i;
    while((i=fr.read())!=-1)
