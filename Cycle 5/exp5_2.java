@@ -33,7 +33,7 @@ class filedetails
 
 /*
 Output:
-Number of lines:
+Number of lines:4
 Number of words :10
 Number of characters :47
 */
