@@ -165,3 +165,48 @@ class Exp10_1
 	}
 
 }
+
+/*
+OUTPUT
+Options are :
+1. Insert
+2. Display
+3. Delete 
+4. Exit
+Enter your Option : 1 
+Enter the item to be inserted: 8
+1.At Beginning        2. Before Any Element       3.After any Element
+Enter your Choice: 1
+
+Options are :
+1. Insert
+2. Display
+3. Delete 
+4. Exit
+Enter your Option : 1 
+Enter the item to be inserted:10
+1.At Beginning        2. Before Any Element       3.After any Element
+Enter your Choice: 3
+Enter the after element:5
+Options are :
+1. Insert
+2. Display
+3. Delete 
+4. Exit
+Enter your Option :2
+5->10
+Options are :
+1. Insert
+2. Display
+3. Delete 
+4. Exit
+Enter your Option :3
+Enter the element to be deleted:5
+List after deleltion is :10
+Options are :
+1. Insert
+2. Display
+3. Delete 
+4. Exit
+Enter your Option :4
+*/
