@@ -45,3 +45,15 @@ class Binary_search
 	}
 
 }
+
+/*
+OUTPUT
+Enter the size:5
+Enter the elements:57
+36
+48
+71
+16
+Enter the item to be searched:71
+71 is found at position 4
+*/
